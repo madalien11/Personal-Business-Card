@@ -1,6 +1,6 @@
 # mymicardflutter
 
-A new Flutter application.
+Personal business card app with UI designed by using Flutter's Layout Widgets
 
 ## Getting Started
 
