@@ -1,6 +1,7 @@
 # mymicardflutter
 
 Personal business card app with UI designed by using Flutter's Layout Widgets
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
